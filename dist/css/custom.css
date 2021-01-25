@@ -1,0 +1,30 @@
+#errorFirstname,
+#errormiddlename,
+#errorLastname,
+#errorGender,
+#erroridNumber,
+#errorPhonenumber,
+#errorEmail,
+#errormanagerRole,
+#errorcountryCode,
+#errorPassword {
+    color: #dc3545;
+    text-transform: uppercase !important;
+    font-weight: bold !important;
+    font-size: 14px !important;
+    overflow: auto !important;
+}
+
+input#firstname,
+input#middlename,
+input#lastname {
+    margin: 3px !important;
+}
+
+ div.dataTables_wrapper div.dataTables_length label {
+        padding: 10px !important;
+    }
+
+    div.dataTables_wrapper div.dataTables_filter label {
+        padding: 10px !important;
+    }
