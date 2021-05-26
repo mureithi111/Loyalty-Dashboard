@@ -14,9 +14,12 @@
 <!-- ./wrapper -->
 
 
-<!-- jQuery UI 1.11.4 -->
-<script src="../plugins/jquery-ui/jquery-ui.min.js"></script>
-<!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
+<!-- jQuery -->
+<script src="../plugins/jquery/jquery.min.js"></script>
+<script src="../dist/js/all.js"></script>
+<script src="../dist/js/datatables.min.js"></script>
+
+
 <!-- Bootstrap 4 -->
 <script src="../plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 <!-- ChartJS -->
@@ -41,9 +44,11 @@
 <script src="../dist/js/adminlte.js"></script>
 <!-- AdminLTE for demo purposes -->
 <script src="../dist/js/demo.js"></script>
+<!-- AdminLTE App -->
 
 
-<script src="../dist/js/datatables.min.js"></script>
+
+
 
 </body>
 
