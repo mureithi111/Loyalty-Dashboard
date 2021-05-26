@@ -16,7 +16,6 @@
 
 <!-- jQuery -->
 <script src="../plugins/jquery/jquery.min.js"></script>
-<script src="../dist/js/all.js"></script>
 <script src="../dist/js/datatables.min.js"></script>
 
 
